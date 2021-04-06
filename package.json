@@ -1,7 +1,8 @@
 {
-  "name": "keeper-part-3-starting",
+  "name": "keeper",
   "version": "1.0.0",
   "description": "",
+  "homepage" : "https://tariquzzaman-faisal.github.io/Keeper/",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
